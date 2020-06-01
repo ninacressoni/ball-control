@@ -2,7 +2,6 @@
 
 import simplegui 
 
-
 # Define globals - Constants are capitalized in Python
 HEIGHT = 400
 WIDTH = 400
